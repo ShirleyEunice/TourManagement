@@ -1,0 +1,23 @@
+.trusted-section {
+  background-color: #fff;
+}
+
+.text-orange {
+  color: #FEBE10;
+  font-weight: bold;
+}
+
+.text-content h1 span.text-primary {
+  color:#FEBE10;
+}
+
+.text-muted {
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.text-content p {
+  color: #6c757d;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}

@@ -1,0 +1,19 @@
+.carouselHead{
+  font-size: 52.7px;
+}
+
+.carouselSubHead{
+  font-size: 1.2rem;
+}
+
+.custom-caption {
+  position: absolute;
+  
+  transform: translate(-2%, -50%);
+  text-align: center;
+  color: white;
+  }
+
+.carousel{
+  transform: translate(0, -10%);
+}
